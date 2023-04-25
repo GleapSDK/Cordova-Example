@@ -1,0 +1,10 @@
+{
+  "cordova-plugin-gleap": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-gleap"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
