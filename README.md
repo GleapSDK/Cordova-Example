@@ -1,4 +1,8 @@
-# Gleap demo for cordova
+# Gleap Cordova Example
+
+Apache Cordova example integrating Gleap for in-app customer support and bug reporting. Uses the archived Gleap Cordova SDK.
+
+[Integration documentation](https://docs.gleap.ai/documentation/cordova/README) · [Gleap](https://www.gleap.ai)
 
 1.) Run `npm install` in the root folder.
 
